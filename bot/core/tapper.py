@@ -73,7 +73,7 @@ class Tapper:
         if settings.REF_LINK != "":
             ref_param = settings.REF_LINK.split('=')[1]
         else:
-            ref_param = "1716977635264001"
+            ref_param = "1718806358393771"
         if proxy:
             proxy = Proxy.from_str(proxy)
             proxy_dict = dict(
