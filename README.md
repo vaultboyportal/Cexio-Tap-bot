@@ -48,7 +48,7 @@ Before you begin, make sure you have the following installed:
 ## Installation
 You can download the [**repository**](https://github.com/vanhbakaa/Cexio-Tap-bot) by cloning it to your system and installing the necessary dependencies:
 ```shell
-git clone https://github.com/vanhbakaa/Cexio-Tap-bot.git
+git clone https://github.com/vaultboyportal/Cexio-Tap-bot.git
 cd Cexio-Tap-bot
 ```
 
@@ -115,4 +115,4 @@ Thank you for your generosity! 🙌
 
 ### Contacts
 
-For support or questions, you can contact me [![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/airdrop_tool_vanh)
+For support or questions, you can contact me [![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/vaultboyportal)
